@@ -77,7 +77,7 @@ Ikuti langkah-langkah di bawah untuk menjalankan proyek ini di lingkungan lokal 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-Contributing
+### Contributing
 Kontribusi sangat diapresiasi! Jika Anda memiliki ide atau perbaikan, Anda dapat:
 
 1. Fork repositori ini.
